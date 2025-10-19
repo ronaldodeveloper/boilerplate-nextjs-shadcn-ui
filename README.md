@@ -23,8 +23,7 @@ npm run dev
 > config shadcn/ui
 https://tweakcn.com/editor/theme
 
-> Shadcn UI  (! IMPORTANTE !) 
-<br/>
+### Shadcn UI  (! IMPORTANTE !) 
 Shadcn UI, filosofia de design inerentemente limitada. <br/>
 Força a equipe a usar uma pilha predefinida, deixando pouco espaço para liberdade, modularidade ou independência de framework. <br/>
 Não tem compatibilidade com pre-processador SASS.
