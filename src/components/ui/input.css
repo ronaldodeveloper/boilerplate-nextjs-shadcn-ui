@@ -1,0 +1,9 @@
+
+
+.custom{
+    height: 48px;
+
+    .border-input {
+        border-color: goldenrod !important;
+    }
+}
